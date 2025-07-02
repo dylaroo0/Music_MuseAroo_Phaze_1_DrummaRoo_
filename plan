@@ -1,0 +1,65 @@
+# DrummaRoo Drum Generation Project Plan
+
+## Notes
+- User wants generated drum MIDI to musically match the input audio file (e.g., acoustic guitar song), not just generate a generic beat.
+- Integration test now passes for silent WAV and basic MIDI generation.
+- Next step is to analyze the input audio and use the results to guide drum generation.
+- Identified and integrated `unified_musical_analysis` from musical_analyzer.py; required workaround for missing `register_plugin` decorator/import.
+- Legacy analyzer abandoned; new analyzer module (`rhythm_analyzer.py`) created in `musearoo/analyzers` with tempo detection as first feature.
+- User prefers new code be organized into the correct subfolders for maintainability.
+- Project is pivoting to full BrainAroo → DrummaRoo architecture: modular analyzers (pitch, harmony, rhythm, etc.), central timeline, and multi-model fusion as outlined in README.md vision.
+- Rhythm analyzer (madmom_suite.py), timeline_builder, and test_brainaroo_drummaroo.py integration test script scaffolded and implemented.
+- Fixed pyin dependency version issue in requirements.txt.
+- Next: Connect orchestrator, analyzers, and DrummaRoo via timeline.
+- Adopting MuseAroo v3 architecture and directory structure as outlined in new project skeleton.
+- Analyzer module skeletons for all audio/MIDI features provided and ready to integrate.
+- MIDI articulation analyzer skeleton provided for analysis/midi/midi_articulation.py; ready for integration.
+- Integration test currently fails due to import path breakage and Unicode emoji in print statements; needs fixing before further refactoring.
+- madmom>=0.17.0 is not available; need to pin to madmom==0.16.1 in requirements.txt to allow dependency installation.
+- madmom requires Cython to be installed beforehand; must add Cython to requirements.txt before madmom.
+- essentia>=2.1b6.dev1034 is not available; need to pin to essentia==2.1b6.dev234 in requirements.txt to allow dependency installation.
+- essentia==2.1b6.dev234 on PyPI is broken (metadata mismatch); try essentia==2.1b6.dev184 instead.
+- All recent essentia dev versions are broken; use stable 2.1b5 instead.
+- audioread < 3.0.1 is incompatible with Python 3.12+ (uses removed 'imp' module); must pin audioread to 3.0.1 or newer.
+- scipy build fails on Windows/Python 3.13 due to missing Fortran compiler; must pin scipy to a compatible pre-built wheel version (e.g. 1.16.0).
+- crepe and resampy have incompatible requirements; remove crepe from requirements.txt to resolve dependency conflict.
+- Dependency conflict between scipy, basic-pitch, and numpy; resolve by removing top-level numpy pin and switching to basic-pitch[onnx] to avoid TensorFlow on Windows and let pip resolve numpy version flexibly.
+- Unresolvable conflict between scipy and basic-pitch on numpy version; basic-pitch must be removed from requirements for now to proceed with installation and development. Alternative pitch analyzers (pyin, aubio) remain available.
+- User is running Python 3.11.2 (not 3.13); many previous dependency pins and removals were only necessary for Python 3.13 compatibility, and are likely not needed for 3.11.2. Reverting to a less restrictive requirements.txt and re-evaluating which pins are truly required.
+- User is using a Conda environment (`musearoo_env`). Plan is to use Conda for scientific dependencies and pip for the remainder, to resolve dependency hell.
+- New installation plan: 1) Try pip install in Conda env; 2) If pip fails, install problem packages with conda, then rerun pip for others.
+- audioread install fails due to 'imp' module removal in Python 3.11+/3.13; must pin audioread to 3.0.1 or newer in requirements.txt to ensure compatibility regardless of environment or pip confusion.
+- Definitive solution: use conda to install numpy, scipy, librosa, cython, etc. first (handles pre-built binaries and avoids compiler issues), then pip for remainder. This is the most robust cross-platform strategy.
+
+## Task List
+- [x] Fix output directory bug in manager.py
+- [x] Refactor integration test to remove failing/irrelevant tests
+- [x] Confirm integration test passes and generates output MIDI
+- [x] Investigate analyzer modules to extract musical features from input audio
+- [x] Resolve missing `precision_timing_handler.py` dependency or refactor analyzer to proceed
+- [x] Create and expand new analyzer module (`rhythm_analyzer.py`) for tempo and rhythm analysis
+- [x] Design and scaffold full BrainAroo analyzer stack (core, pitch, harmony, rhythm, structure, timbre, dynamics, style, ml_models, external)
+- [x] Integrate modular analyzer results into millisecond-precision timeline
+- [x] Create integration test script for pipeline (test_brainaroo_drummaroo.py)
+- [ ] Integrate new timeline and analyzer results into drum generation engine
+- [ ] Fix/install any missing dependencies from requirements.txt
+- [ ] Connect DrummaRoo to timeline and orchestrator for full pipeline
+- [ ] Update integration test to validate that generated drums match the input audio
+- [ ] Refactor codebase to match MuseAroo v3 structure
+- [ ] Move/rename modules to match new architecture
+- [ ] Integrate provided analyzer skeletons into analysis/audio and analysis/midi
+- [ ] Integrate midi_articulation.py analyzer into analysis/midi
+- [ ] Update all imports to match new structure
+- [ ] Fix import paths in master_orchestrator and related modules to point to new analysis/audio/rhythm_madmom.py (analyze_rhythm) instead of old locations
+- [ ] Remove or replace Unicode emoji characters in test_full_pipeline.py print statements to avoid Windows console encoding errors
+- [ ] Update requirements.txt to pin madmom to 0.16.1
+- [ ] Add Cython to requirements.txt before madmom to allow madmom installation
+- [ ] Update requirements.txt to pin essentia to 2.1b5
+- [ ] Remove top-level numpy pin from requirements.txt
+- [ ] Remove basic-pitch from requirements.txt due to unresolvable dependency conflict
+- [ ] Pin audioread to 3.0.1 or newer in requirements.txt
+- [ ] Pin scipy to 1.16.0 or compatible pre-built version in requirements.txt
+- [ ] Use conda to install scientific dependencies, then pip for the rest
+
+## Current Goal
+Install core science deps with conda, rest with pip

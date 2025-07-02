@@ -1,0 +1,1852 @@
+
+🥁INSTRUCTIONS: PRECISION MUSIC DATA EXTRACTION
+Maximum Musical Intelligence - Songwriting Focus
+🎯 MISSION: EXTRACT EVERY MUSICAL DETAIL WITH SURGICAL PRECISION
+PRIORITY HIERARCHY:
+
+🔬 PRECISION: Extract maximum musical data regardless of processing time
+🎸 GUITAR FOCUS: Deep acoustic guitar analysis for perfect accompaniment
+📝 SONGWRITING: Optimize for creative workflow and composition assistance
+🧠 INTELLIGENCE: Capture musical meaning, not just features
+⏱️ SPEED: Irrelevant - take minutes if needed for perfect analysis
+📁 COMPLETE PRECISION-FOCUSED FOLDER STRUCTURE
+musearoo/
+├── analysis/
+│   ├── audio/
+│   │   ├── rhythm/
+│   │   │   ├── __init__.py
+│   │   │   ├── tempo_archaeologist.py         # Multi-algorithm tempo consensus
+│   │   │   ├── beat_microsurgeon.py           # Sample-level beat precision
+│   │   │   ├── onset_forensics.py             # 5-algorithm onset fusion
+│   │   │   ├── groove_dna_extractor.py        # Complete rhythmic fingerprint
+│   │   │   ├── polyrhythm_decoder.py          # Complex rhythm separation
+│   │   │   ├── accent_microscope.py           # Micro-dynamic analysis
+│   │   │   ├── subdivision_cartographer.py    # Exhaustive subdivision mapping
+│   │   │   ├── swing_laboratory.py            # Precise swing quantification
+│   │   │   ├── syncopation_detector.py        # Advanced syncopation analysis
+│   │   │   └── rhythmic_complexity_meter.py   # Sophistication measurement
+│   │   ├── harmony/
+│   │   │   ├── __init__.py
+│   │   │   ├── chord_archaeologist.py         # Deep harmonic excavation
+│   │   │   ├── key_cryptographer.py           # Advanced key detection
+│   │   │   ├── voice_leading_anatomist.py     # Part movement dissection
+│   │   │   ├── modulation_tracker.py          # Key change precision mapping
+│   │   │   ├── tension_physicist.py           # Mathematical dissonance analysis
+│   │   │   ├── harmonic_rhythm_surgeon.py     # Chord timing microsurgery
+│   │   │   ├── bass_line_cartographer.py      # Root movement mapping
+│   │   │   ├── functional_harmony_analyst.py  # Complete harmonic function
+│   │   │   ├── chord_extension_detector.py    # 7ths, 9ths, alterations
+│   │   │   └── cadence_identifier.py          # Cadence type classification
+│   │   ├── instruments/
+│   │   │   ├── __init__.py
+│   │   │   ├── acoustic_guitar_master.py      # **MASTER GUITAR ANALYZER**
+│   │   │   ├── string_resonance_analyzer.py   # Individual string behavior
+│   │   │   ├── fret_position_decoder.py       # Precise fret mapping
+│   │   │   ├── picking_forensics.py           # Pick vs finger detection
+│   │   │   ├── capo_detector.py               # Capo position analysis
+│   │   │   ├── tuning_cryptographer.py        # Non-standard tuning decode
+│   │   │   ├── chord_shape_reconstructor.py   # Guitar-specific voicings
+│   │   │   ├── strumming_archaeologist.py     # Complete strum analysis
+│   │   │   ├── guitar_technique_profiler.py   # Playing technique ID
+│   │   │   ├── body_resonance_analyzer.py     # Guitar body characteristics
+│   │   │   ├── string_gauge_detector.py       # String type identification
+│   │   │   ├── recording_method_analyzer.py   # Mic vs pickup vs DI
+│   │   │   └── guitar_condition_assessor.py   # Instrument condition analysis
+│   │   ├── structure/
+│   │   │   ├── __init__.py
+│   │   │   ├── form_archaeologist.py          # Deep structural excavation
+│   │   │   ├── section_microsurgeon.py        # Precise boundary detection
+│   │   │   ├── phrase_anatomist.py            # Complete phrase dissection
+│   │   │   ├── repetition_cryptographer.py    # Pattern recognition genius
+│   │   │   ├── transition_physicist.py        # Section change mathematics
+│   │   │   ├── dynamic_arc_mapper.py          # Energy flow cartography
+│   │   │   ├── formal_pattern_decoder.py      # AABA, verse-chorus detection
+│   │   │   ├── climax_detector.py             # Peak moment identification
+│   │   │   └── narrative_analyzer.py          # Musical storytelling analysis
+│   │   ├── dynamics/
+│   │   │   ├── __init__.py
+│   │   │   ├── expression_archaeologist.py    # Deep expression mining
+│   │   │   ├── dynamic_microsurgeon.py        # Micro-level loudness analysis
+│   │   │   ├── articulation_forensics.py      # Precise articulation detection
+│   │   │   ├── accent_physicist.py            # Mathematical accent analysis
+│   │   │   ├── silence_philosopher.py         # Rest meaning extraction
+│   │   │   ├── rubato_mathematician.py        # Timing deviation precision
+│   │   │   ├── attack_envelope_analyzer.py    # Note onset characteristics
+│   │   │   ├── sustain_decay_profiler.py      # Note release behavior
+│   │   │   └── breath_detection.py            # Human breathing patterns
+│   │   ├── timbre/
+│   │   │   ├── __init__.py
+│   │   │   ├── spectral_archaeologist.py      # Deep frequency excavation
+│   │   │   ├── harmonic_crystallographer.py   # Overtone structure analysis
+│   │   │   ├── formant_cartographer.py        # Resonance mapping
+│   │   │   ├── noise_forensics.py             # Detailed noise classification
+│   │   │   ├── transient_microsurgeon.py      # Attack precision analysis
+│   │   │   ├── brightness_physicist.py        # Spectral centroid mathematics
+│   │   │   ├── roughness_analyzer.py          # Surface texture analysis
+│   │   │   ├── inharmonicity_detector.py      # Pitch deviation analysis
+│   │   │   └── spectral_evolution_tracker.py  # Timbral change over time
+│   │   ├── context/
+│   │   │   ├── __init__.py
+│   │   │   ├── musical_philosopher.py         # High-level understanding
+│   │   │   ├── genre_cryptographer.py         # Style fingerprinting
+│   │   │   ├── performance_psychologist.py    # Player personality analysis
+│   │   │   ├── emotion_archaeologist.py       # Deep emotional excavation
+│   │   │   ├── complexity_mathematician.py    # Sophistication quantification
+│   │   │   ├── era_detector.py                # Time period identification
+│   │   │   ├── influence_analyzer.py          # Musical influence detection
+│   │   │   ├── skill_level_assessor.py        # Technical proficiency analysis
+│   │   │   └── accompaniment_oracle.py        # Ultimate recommendation engine
+│   │   └── __init__.py
+│   ├── midi/
+│   │   ├── __init__.py
+│   │   ├── note_archaeologist.py              # Deep MIDI note analysis
+│   │   ├── velocity_microsurgeon.py           # Precise dynamic analysis
+│   │   ├── timing_forensics.py                # MIDI timing precision
+│   │   ├── chord_extractor.py                 # Harmonic analysis from MIDI
+│   │   ├── voice_separator.py                 # Part separation algorithms
+│   │   ├── performance_detector.py            # Human vs programmed analysis
+│   │   ├── articulation_analyzer.py           # MIDI articulation detection
+│   │   └── quantization_assessor.py           # Timing quantization analysis
+│   ├── shared/
+│   │   ├── __init__.py
+│   │   ├── base_analyzer.py                   # **CRITICAL FOUNDATION**
+│   │   ├── precision_registry.py              # Analyzer organization system
+│   │   ├── mathematical_toolkit.py            # Advanced music mathematics
+│   │   ├── audio_archaeology_tools.py         # Deep audio excavation utilities
+│   │   ├── data_validation.py                 # Result quality assurance
+│   │   ├── confidence_scoring.py              # Analysis confidence metrics
+│   │   ├── cross_validation.py                # Multi-algorithm verification
+│   │   └── musical_data_models.py             # Comprehensive data structures
+│   ├── intelligence/
+│   │   ├── __init__.py
+│   │   ├── precision_orchestrator.py          # Master analysis controller
+│   │   ├── data_fusion_engine.py              # Multi-analyzer result fusion
+│   │   ├── musical_context_builder.py         # Complete musical understanding
+│   │   ├── accompaniment_optimizer.py         # Perfect matching algorithms
+│   │   ├── songwriting_assistant.py           # Creative workflow optimization
+│   │   └── quality_assurance_engine.py        # Comprehensive result validation
+│   └── __init__.py
+├── visualization/
+│   ├── __init__.py
+│   ├── precision_waveform_plotter.py          # Ultra-detailed waveform display
+│   ├── spectral_archaeology_viewer.py         # Deep frequency visualization
+│   ├── harmonic_analysis_display.py           # Chord progression visualization
+│   ├── guitar_analysis_viewer.py              # Guitar-specific visualizations
+│   ├── rhythm_precision_plotter.py            # Beat and timing visualization
+│   ├── musical_form_mapper.py                 # Structure visualization
+│   └── accompaniment_suggestion_display.py    # Recommendation visualization
+└── tests/
+    ├── __init__.py
+    ├── precision_validation/
+    │   ├── test_rhythm_precision.py            # Rhythm accuracy validation
+    │   ├── test_harmony_precision.py           # Harmonic accuracy validation
+    │   ├── test_guitar_analysis.py             # Guitar analysis validation
+    │   └── test_musical_intelligence.py        # High-level understanding tests
+    └── performance_benchmarks/
+        ├── precision_vs_speed_analysis.py      # Quality metrics
+        └── musical_accuracy_validation.py      # Expert validation tests
+🔧 WHY BaseAnalyzer INHERITANCE IS ABSOLUTELY ESSENTIAL
+🏗️ CRITICAL ARCHITECTURE FOUNDATION
+BaseAnalyzer is the CORNERSTONE of the entire system:
+
+python
+# analysis/shared/base_analyzer.py - FOUNDATION OF EVERYTHING
+
+from abc import ABC, abstractmethod
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Union, Tuple
+from pydantic import BaseModel, Field
+import numpy as np
+import librosa
+import logging
+import time
+from dataclasses import dataclass
+
+class AnalysisQualityMetrics(BaseModel):
+    """Quality assessment for analysis results."""
+    confidence_score: float = Field(ge=0.0, le=1.0)
+    algorithm_consensus: float = Field(ge=0.0, le=1.0)
+    cross_validation_score: float = Field(ge=0.0, le=1.0)
+    musical_coherence: float = Field(ge=0.0, le=1.0)
+    precision_estimate: float = Field(ge=0.0, le=1.0)
+
+class PrecisionAnalysisResult(BaseModel):
+    """Base result class with comprehensive metadata."""
+    analyzer_name: str
+    timestamp: float
+    processing_time: float
+    audio_duration: float
+    sample_rate: int
+    quality_metrics: AnalysisQualityMetrics
+    raw_data: Dict[str, Any]
+    musical_context: Dict[str, Any]
+    warnings: List[str] = Field(default_factory=list)
+    recommendations: List[str] = Field(default_factory=list)
+
+class BaseAnalyzer(ABC):
+    """
+    CRITICAL FOUNDATION CLASS - ALL ANALYZERS MUST INHERIT
+    
+    Provides:
+    1. Standardized interface for all analyzers
+    2. Comprehensive error handling and recovery
+    3. Quality validation and confidence scoring
+    4. Cross-validation between multiple algorithms
+    5. Musical coherence checking
+    6. Performance monitoring and optimization
+    7. Result caching and management
+    8. Logging and debugging infrastructure
+    """
+    
+    def __init__(self, 
+                 name: str,
+                 precision_mode: bool = True,
+                 multi_algorithm_fusion: bool = True,
+                 quality_validation: bool = True,
+                 cross_validation: bool = True):
+        self.name = name
+        self.precision_mode = precision_mode
+        self.multi_algorithm_fusion = multi_algorithm_fusion
+        self.quality_validation = quality_validation
+        self.cross_validation = cross_validation
+        self.logger = logging.getLogger(f"MuseAroo.{name}")
+        
+    @abstractmethod
+    def _analyze_core(self, audio: np.ndarray, sr: int) -> Dict[str, Any]:
+        """Core analysis implementation - MUST be implemented by subclasses."""
+        pass
+    
+    def analyze(self, audio_path: Path) -> PrecisionAnalysisResult:
+        """
+        MASTER ANALYSIS METHOD - Why inheritance is essential:
+        
+        1. Standardized preprocessing and validation
+        2. Multi-algorithm fusion for maximum precision
+        3. Quality assessment and confidence scoring
+        4. Error handling and recovery
+        5. Performance monitoring
+        6. Result validation and coherence checking
+        """
+        start_time = time.time()
+        
+        try:
+            # 1. ROBUST AUDIO PREPROCESSING
+            audio, sr = self._load_and_validate_audio(audio_path)
+            
+            # 2. MULTI-ALGORITHM ANALYSIS (if enabled)
+            if self.multi_algorithm_fusion:
+                results = self._run_multi_algorithm_analysis(audio, sr)
+                consensus_result = self._fuse_algorithm_results(results)
+            else:
+                consensus_result = self._analyze_core(audio, sr)
+            
+            # 3. QUALITY VALIDATION
+            quality_metrics = self._assess_analysis_quality(
+                consensus_result, audio, sr)
+            
+            # 4. MUSICAL COHERENCE CHECKING
+            if self.quality_validation:
+                self._validate_musical_coherence(consensus_result)
+            
+            # 5. CROSS-VALIDATION (if enabled)
+            if self.cross_validation:
+                self._cross_validate_with_other_analyzers(consensus_result)
+            
+            # 6. PACKAGE RESULTS
+            processing_time = time.time() - start_time
+            return PrecisionAnalysisResult(
+                analyzer_name=self.name,
+                timestamp=start_time,
+                processing_time=processing_time,
+                audio_duration=len(audio) / sr,
+                sample_rate=sr,
+                quality_metrics=quality_metrics,
+                raw_data=consensus_result,
+                musical_context=self._build_musical_context(consensus_result)
+            )
+            
+        except Exception as e:
+            self.logger.error(f"Analysis failed: {e}")
+            return self._handle_analysis_failure(e, audio_path)
+    
+    def _load_and_validate_audio(self, audio_path: Path) -> Tuple[np.ndarray, int]:
+        """Robust audio loading with comprehensive validation."""
+        # Multiple loading attempts with different methods
+        # Validation of audio quality and characteristics
+        # Preprocessing for optimal analysis
+        pass
+    
+    def _run_multi_algorithm_analysis(self, audio: np.ndarray, sr: int) -> List[Dict]:
+        """Run multiple algorithms and collect results."""
+        # Execute different algorithmic approaches
+        # Collect all results for fusion
+        pass
+    
+    def _fuse_algorithm_results(self, results: List[Dict]) -> Dict[str, Any]:
+        """Fuse multiple algorithm results using consensus methods."""
+        # Weighted averaging based on confidence
+        # Outlier detection and removal
+        # Consensus building algorithms
+        pass
+    
+    def _assess_analysis_quality(self, result: Dict, audio: np.ndarray, sr: int) -> AnalysisQualityMetrics:
+        """Comprehensive quality assessment."""
+        # Algorithm consensus measurement
+        # Musical coherence validation
+        # Precision estimation
+        # Confidence scoring
+        pass
+    
+    def _validate_musical_coherence(self, result: Dict) -> None:
+        """Ensure results make musical sense."""
+        # Check for musical logic violations
+        # Validate against music theory rules
+        # Flag suspicious results
+        pass
+    
+    def _cross_validate_with_other_analyzers(self, result: Dict) -> None:
+        """Cross-validate with related analyzers."""
+        # Compare with related analysis results
+        # Check for consistency across analyzers
+        # Identify potential conflicts
+        pass
+🎯 Why This Architecture is MANDATORY:
+WITHOUT BaseAnalyzer inheritance:
+
+❌ No quality assurance - Results could be completely wrong
+❌ No error handling - System crashes on bad input
+❌ No standardization - Each analyzer works differently
+❌ No validation - Musical nonsense goes undetected
+❌ No optimization - Slow and inefficient processing
+❌ No debugging - Impossible to trace problems
+❌ No integration - Analyzers can't work together
+WITH BaseAnalyzer inheritance:
+
+✅ Guaranteed quality - Multi-algorithm consensus and validation
+✅ Robust operation - Comprehensive error handling and recovery
+✅ Consistent interface - All analyzers work the same way
+✅ Musical intelligence - Results validated against music theory
+✅ Maximum precision - Multi-algorithm fusion for accuracy
+✅ Complete monitoring - Full visibility into analysis process
+✅ Perfect integration - Seamless analyzer orchestration
+🎸 ACOUSTIC GUITAR MASTER ANALYZER SPECIFICATIONS
+🎯 Ultimate Guitar Intelligence (instruments/acoustic_guitar_master.py)
+python
+class AcousticGuitarMasterAnalyzer(BaseAnalyzer):
+    """
+    THE ULTIMATE ACOUSTIC GUITAR ANALYSIS ENGINE
+    
+    Extracts EVERY possible detail about acoustic guitar performance:
+    - Individual string analysis and behavior
+    - Precise fret position mapping and chord reconstruction
+    - Playing technique identification and profiling
+    - Guitar physical characteristics and condition
+    - Recording method and microphone placement analysis
+    - Performance style and skill level assessment
+    """
+    
+    def _analyze_core(self, audio: np.ndarray, sr: int) -> Dict[str, Any]:
+        """
+        COMPREHENSIVE GUITAR ANALYSIS - Extract everything:
+        
+        1. PHYSICAL GUITAR ANALYSIS:
+           - Body size and wood type identification
+           - String gauge and material detection
+           - Guitar condition and age assessment
+           - Pickup vs microphone vs DI detection
+        
+        2. PLAYING TECHNIQUE ANALYSIS:
+           - Pick vs finger vs hybrid technique
+           - Strumming pattern reconstruction
+           - Individual note picking patterns
+           - Advanced techniques (hammer-ons, pull-offs, bends, slides)
+        
+        3. MUSICAL ANALYSIS:
+           - Chord shape reconstruction from audio
+           - Capo position detection
+           - Non-standard tuning identification
+           - Fret position mapping for each note
+        
+        4. PERFORMANCE ANALYSIS:
+           - Player skill level assessment
+           - Style identification and characteristics
+           - Timing precision and groove analysis
+           - Dynamic expression and musicality
+        
+        5. ACCOMPANIMENT OPTIMIZATION:
+           - Optimal bass frequency ranges
+           - Harmonic complement suggestions
+           - Rhythmic synchronization points
+           - Dynamic interaction recommendations
+        """
+        
+        return {
+            # Physical guitar characteristics
+            'guitar_body_analysis': self._analyze_guitar_body(audio, sr),
+            'string_analysis': self._analyze_individual_strings(audio, sr),
+            'guitar_condition': self._assess_guitar_condition(audio, sr),
+            'recording_method': self._detect_recording_method(audio, sr),
+            
+            # Playing technique analysis
+            'picking_technique': self._analyze_picking_technique(audio, sr),
+            'strumming_patterns': self._extract_strumming_patterns(audio, sr),
+            'advanced_techniques': self._detect_advanced_techniques(audio, sr),
+            'hand_position_analysis': self._analyze_hand_positions(audio, sr),
+            
+            # Musical content analysis
+            'chord_reconstruction': self._reconstruct_chord_shapes(audio, sr),
+            'capo_detection': self._detect_capo_usage(audio, sr),
+            'tuning_analysis': self._analyze_tuning_system(audio, sr),
+            'fret_position_mapping': self._map_fret_positions(audio, sr),
+            
+            # Performance characteristics
+            'skill_assessment': self._assess_player_skill(audio, sr),
+            'style_profiling': self._profile_playing_style(audio, sr),
+            'timing_analysis': self._analyze_timing_precision(audio, sr),
+            'expression_analysis': self._analyze_musical_expression(audio, sr),
+            
+            # Accompaniment recommendations
+            'bass_frequency_analysis': self._analyze_bass_frequencies(audio, sr),
+            'harmonic_space_analysis': self._analyze_harmonic_space(audio, sr),
+            'rhythmic_interaction_points': self._find_rhythmic_opportunities(audio, sr),
+            'dynamic_complement_suggestions': self._suggest_dynamic_complements(audio, sr),
+            
+            # Complete guitar DNA
+            'guitar_fingerprint': self._create_guitar_fingerprint(audio, sr),
+            'accompaniment_optimization': self._optimize_for_accompaniment(audio, sr)
+        }
+🔬 Precision Guitar Analysis Methods
+Individual String Analysis:
+
+Frequency analysis for each of the 6 strings
+String tension and intonation assessment
+Sympathetic resonance detection
+String age and condition evaluation
+Chord Shape Reconstruction:
+
+Spectral analysis to identify fretted vs open strings
+Harmonic pattern matching for chord identification
+Fingering position reconstruction from overtone analysis
+Voicing optimization suggestions for accompaniment
+Playing Technique Profiling:
+
+Attack envelope analysis for pick vs finger identification
+Strum direction detection through spectral asymmetry
+Muting technique identification (palm muting, string muting)
+Advanced technique detection (harmonics, percussive elements)
+Guitar Physical Characteristics:
+
+Body resonance analysis for size and wood type
+Soundhole resonance frequency identification
+String buzz and fret noise analysis for condition assessment
+Pickup magnetic field detection vs acoustic recording
+📊 COMPLETE ANALYZER SPECIFICATIONS FOR CODEX
+🥁 RHYTHM PRECISION ANALYZERS
+TempoArchaeologist (rhythm/tempo_archaeologist.py)
+
+Precision Methods: 5-algorithm consensus (autocorrelation, FFT, neural, onset-based, spectral)
+Output Resolution: 0.001 BPM precision with confidence intervals
+Validation: Cross-reference with harmonic rhythm and structural analysis
+Capabilities: Detect micro-tempo fluctuations, tempo modulation, metric modulation
+BeatMicrosurgeon (rhythm/beat_microsurgeon.py)
+
+Precision Methods: Sample-level beat detection with sub-millisecond accuracy
+Multi-Algorithm Fusion: Madmom DBN, librosa beat tracking, neural onset detection
+Validation: Musical coherence checking against tempo and harmonic analysis
+Capabilities: Detect rubato, accelerando, ritardando with mathematical precision
+OnsetForensics (rhythm/onset_forensics.py)
+
+Precision Methods: 5-algorithm ensemble (spectral flux, HFC, complex domain, neural, phase)
+Output Detail: Onset type classification, velocity estimation, timbral characteristics
+Validation: Cross-validate with harmonic and dynamic analysis
+Capabilities: Distinguish percussive vs harmonic vs noise onsets
+🎹 HARMONY PRECISION ANALYZERS
+ChordArchaeologist (harmony/chord_archaeologist.py)
+
+Precision Methods: Multi-algorithm chord detection with template matching and neural networks
+Output Detail: Root, quality, inversion, voicing, extensions, confidence per chord
+Validation: Voice leading coherence, functional harmony validation
+Capabilities: Detect complex jazz chords, polyharmony, non-tertian harmony
+KeyCryptographer (harmony/key_cryptographer.py)
+
+Precision Methods: Krumhansl-Schmuckler plus machine learning key detection
+Output Detail: Key timeline with modulation detection and modal analysis
+Validation: Cross-reference with chord progression and melodic analysis
+Capabilities: Handle modal music, chromatic music, atonal sections
+🏗️ STRUCTURE PRECISION ANALYZERS
+FormArchaeologist (structure/form_archaeologist.py)
+
+Precision Methods: Novelty detection, self-similarity matrix analysis, pattern recognition
+Output Detail: Section boundaries with sub-second precision, section type classification
+Validation: Cross-validate with harmonic rhythm and dynamic analysis
+Capabilities: Detect complex forms, through-composed sections, developmental structures
+⚡ DYNAMICS PRECISION ANALYZERS
+ExpressionArchaeologist (dynamics/expression_archaeologist.py)
+
+Precision Methods: Multi-dimensional dynamic analysis (RMS, LUFS, spectral energy)
+Output Detail: Expression timeline with articulation and phrasing analysis
+Validation: Musical coherence with rhythm and harmonic analysis
+Capabilities: Detect subtle expression nuances, breathing patterns, musical gestures
+🎨 TIMBRE PRECISION ANALYZERS
+SpectralArchaeologist (timbre/spectral_archaeologist.py)
+
+Precision Methods: High-resolution spectral analysis with multiple window sizes
+Output Detail: Complete spectral evolution with harmonic tracking
+Validation: Consistency with pitch and harmonic analysis
+Capabilities: Track spectral evolution, formant movement, timbral modulation
+🎯 IMPLEMENTATION PRIORITIES FOR CODEX
+Phase 1: Foundation & Guitar Analysis (Week 1)
+BaseAnalyzer architecture (shared/base_analyzer.py)
+Precision registry system (shared/precision_registry.py)
+Guitar master analyzer (instruments/acoustic_guitar_master.py)
+All guitar sub-analyzers (string, fret, picking, etc.)
+Mathematical toolkit (shared/mathematical_toolkit.py)
+Phase 2: Core Musical Analysis (Week 2)
+Rhythm precision suite (all rhythm analyzers)
+Harmony precision suite (all harmony analyzers)
+Cross-validation system (shared/cross_validation.py)
+Quality assurance engine (intelligence/quality_assurance_engine.py)
+Phase 3: Complete Musical Intelligence (Week 3)
+Structure analysis suite (all structure analyzers)
+Dynamics analysis suite (all dynamics analyzers)
+Timbre analysis suite (all timbre analyzers)
+Context analysis suite (all context analyzers)
+Data fusion engine (intelligence/data_fusion_engine.py)
+Phase 4: Optimization & Integration (Week 4)
+Precision orchestrator (intelligence/precision_orchestrator.py)
+Accompaniment optimizer (intelligence/accompaniment_optimizer.py)
+Songwriting assistant (intelligence/songwriting_assistant.py)
+Comprehensive testing (all test suites)
+Visualization suite (all visualization modules)
+🎼 SUCCESS CRITERIA: PRECISION OVER EVERYTHING
+✅ Musical Precision:
+
+99.99% accuracy on beat detection (better than human)
+Perfect chord recognition including complex jazz harmony
+Complete guitar analysis including exact fret positions
+Microsecond timing precision for all temporal analysis
+Musical theory validation for all harmonic analysis
+✅ Data Completeness:
+
+Extract every musical element from the input audio
+Miss nothing - comprehensive analysis of all aspects
+Deep understanding of musical meaning and context
+Complete musical DNA fingerprinting
+Perfect accompaniment optimization parameters
+✅ Songwriting Focus:
+
+Creative workflow optimization for songwriters
+Intelligent suggestions for accompaniment
+Musical coherence validation for composition assistance
+Style analysis for arrangement guidance
+Harmonic compatibility analysis for multi-instrument arrangements
+🚀 BOTTOM LINE FOR CODEX
+CREATE THE MOST PRECISE MUSIC ANALYSIS SYSTEM EVER CONCEIVED. EXTRACT EVERY POSSIBLE MUSICAL DETAIL WITH SCIENTIFIC PRECISION. FOCUS SPECIFICALLY ON ACOUSTIC GUITAR MASTERY AND SONGWRITING OPTIMIZATION.
+
+REQUIREMENTS:
+
+MAXIMUM PRECISION - Take hours if needed for perfect analysis
+COMPLETE GUITAR INTELLIGENCE - Know everything about the guitar performance
+MUSICAL GENIUS - Understand music better than trained musicians
+SONGWRITING OPTIMIZATION - Perfect creative workflow assistance
+NO SPEED COMPROMISES - Precision is everything
+GOAL: ANALYSIS SO PRECISE AND COMPREHENSIVE THAT PERFECT MUSICAL ACCOMPANIMENT AND SONGWRITING ASSISTANCE BECOMES INEVITABLE.
+
+🎼 Precision. Intelligence. Musical Understanding. No Compromises. 🎼
+
+
+
+
+ RHYTHM SPECIALISTS (analysis/audio/rhythm/)
+rhythm_master.py - RhythmMasterAnalyzer
+
+python
+class RhythmMasterAnalyzer(BaseAnalyzer):
+    """
+    Ultimate rhythm intelligence for accompaniment matching.
+    Extracts micro-timing, groove signatures, and rhythmic DNA.
+    """
+    
+    def analyze(self, audio_path: Path) -> RhythmSignature:
+        """
+        Returns comprehensive rhythmic profile for accompaniment generation.
+        
+        Output Features:
+        - tempo_curve: Frame-by-frame BPM variations
+        - micro_timing: Sub-millisecond timing deviations  
+        - groove_template: Rhythmic DNA fingerprint
+        - swing_profile: Triplet vs straight feel analysis
+        - accent_pattern: Strong/weak beat emphasis
+        - subdivision_density: Note density per beat subdivision
+        - rhythmic_tension: Push/pull timing analysis
+        - polyrhythm_detection: Multiple simultaneous rhythms
+        """
+beat_surgeon.py - BeatSurgeonAnalyzer
+
+python
+class BeatSurgeonAnalyzer(BaseAnalyzer):
+    """
+    Surgical precision beat analysis for tight accompaniment sync.
+    Millisecond-accurate beat placement with confidence scoring.
+    """
+    
+    def analyze(self, audio_path: Path) -> BeatGrid:
+        """
+        Precision beat grid for accompaniment alignment.
+        
+        Features:
+        - beat_timestamps: Sub-millisecond beat positions
+        - beat_confidence: Per-beat accuracy scores
+        - downbeat_markers: Bar line positions
+        - meter_changes: Time signature transitions
+        - tempo_fluctuations: Rubato and ritardando detection
+        """
+onset_detective.py - OnsetDetectiveAnalyzer
+
+python
+class OnsetDetectiveAnalyzer(BaseAnalyzer):
+    """
+    Advanced onset detection for accompaniment note placement.
+    Multi-algorithm fusion for ultimate onset precision.
+    """
+    
+    def analyze(self, audio_path: Path) -> OnsetProfile:
+        """
+        Multi-dimensional onset analysis.
+        
+        Algorithms:
+        - Spectral flux (broadband energy changes)
+        - High-frequency content (percussive detection)
+        - Complex domain (phase deviation)
+        - Neural network ensemble (learned patterns)
+        
+        Output:
+        - onset_times: Precise attack timestamps
+        - onset_types: Percussive/harmonic/noise classification
+        - onset_velocity: Attack strength estimation
+        - onset_timbre: Tonal color at attack point
+        """
+🎹 HARMONY SPECIALISTS (analysis/audio/harmony/)
+harmony_oracle.py - HarmonyOracleAnalyzer
+
+python
+class HarmonyOracleAnalyzer(BaseAnalyzer):
+    """
+    Advanced harmonic analysis for intelligent chord accompaniment.
+    Deep understanding of functional harmony and voice leading.
+    """
+    
+    def analyze(self, audio_path: Path) -> HarmonicProfile:
+        """
+        Comprehensive harmonic analysis for accompaniment generation.
+        
+        Features:
+        - chord_timeline: Time-aligned chord progression
+        - voice_leading: Part movement analysis
+        - harmonic_rhythm: Chord change frequency
+        - tension_resolution: Dissonance/consonance mapping
+        - key_centers: Tonal center tracking
+        - modulation_detection: Key change identification
+        - chord_extensions: 7ths, 9ths, alterations
+        - bass_line_analysis: Root movement patterns
+        """
+chord_prophet.py - ChordProphetAnalyzer
+
+python
+class ChordProphetAnalyzer(BaseAnalyzer):
+    """
+    Predictive chord analysis for proactive accompaniment.
+    Anticipates harmonic movement for seamless generation.
+    """
+    
+    def analyze(self, audio_path: Path) -> ChordPrediction:
+        """
+        Harmonic prediction and analysis.
+        
+        Capabilities:
+        - chord_probability: Likelihood of next chord changes
+        - cadence_detection: Perfect/plagal/deceptive patterns
+        - harmonic_function: Tonic/predominant/dominant roles
+        - substitution_suggestions: Reharmonization options
+        - voice_leading_optimization: Smooth part movement
+        """
+🏗️ STRUCTURE SPECIALISTS (analysis/audio/structure/)
+form_architect.py - FormArchitectAnalyzer
+
+python
+class FormArchitectAnalyzer(BaseAnalyzer):
+    """
+    Musical form analysis for section-aware accompaniment.
+    Understands verse/chorus/bridge for contextual generation.
+    """
+    
+    def analyze(self, audio_path: Path) -> MusicalForm:
+        """
+        Structural analysis for form-aware accompaniment.
+        
+        Detection:
+        - section_boundaries: Intro/verse/chorus/bridge/outro
+        - repetition_patterns: AABA, verse-chorus, etc.
+        - dynamic_arcs: Energy buildup/release cycles
+        - textural_changes: Instrumentation variations
+        - phrase_structure: 4/8/16 bar phrase detection
+        - formal_transitions: Section change characteristics
+        """
+⚡ DYNAMICS SPECIALISTS (analysis/audio/dynamics/)
+expression_reader.py - ExpressionReaderAnalyzer
+
+python
+class ExpressionReaderAnalyzer(BaseAnalyzer):
+    """
+    Dynamic and expressive analysis for musical accompaniment.
+    Captures the emotional DNA of performances.
+    """
+    
+    def analyze(self, audio_path: Path) -> ExpressionProfile:
+        """
+        Musical expression analysis for accompaniment matching.
+        
+        Features:
+        - dynamic_curve: Loudness trajectory over time
+        - articulation_map: Legato/staccato/accent detection
+        - expressive_timing: Rubato and agogic accents
+        - vibrato_analysis: Frequency/amplitude modulation
+        - attack_envelope: Note onset characteristics
+        - sustain_behavior: Note decay patterns
+        - silence_analysis: Rest placement and duration
+        """
+🎨 TIMBRE SPECIALISTS (analysis/audio/timbre/)
+timbre_profiler.py - TimbreProfilerAnalyzer
+
+python
+class TimbreProfilerAnalyzer(BaseAnalyzer):
+    """
+    Advanced timbral analysis for accompaniment color matching.
+    Deep spectral understanding for sonic compatibility.
+    """
+    
+    def analyze(self, audio_path: Path) -> TimbreSignature:
+        """
+        Timbral fingerprinting for accompaniment matching.
+        
+        Analysis:
+        - spectral_centroid_curve: Brightness over time
+        - harmonic_richness: Overtone complexity
+        - inharmonicity: Pitch deviation analysis
+        - formant_tracking: Resonant frequency peaks
+        - noise_characteristics: Breath/fret/bow noise
+        - transient_profile: Attack sharpness/softness
+        - spectral_flux: Timbral change rate
+        """
+🧠 CONTEXT SPECIALISTS (analysis/audio/context/)
+musical_intelligence.py - MusicalIntelligenceAnalyzer
+
+python
+class MusicalIntelligenceAnalyzer(BaseAnalyzer):
+    """
+    High-level musical understanding for intelligent accompaniment.
+    Combines all analysis into musical meaning and context.
+    """
+    
+    def analyze(self, audio_path: Path) -> MusicalContext:
+        """
+        Ultimate musical understanding for accompaniment generation.
+        
+        Intelligence Features:
+        - genre_fingerprint: Style classification and characteristics
+        - performance_style: Individual player characteristics
+        - emotional_trajectory: Mood evolution over time
+        - complexity_analysis: Harmonic/rhythmic sophistication
+        - instrument_identification: Source instrument detection
+        - ensemble_analysis: Solo vs. group performance
+        - recording_quality: Production characteristics
+        - accompaniment_suggestions: Optimal instrument choices
+        """
+⚙️ TECHNICAL SPECIFICATIONS
+🔧 Base Architecture
+analysis/shared/base.py - Foundation Classes
+
+python
+from abc import ABC, abstractmethod
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Union
+from pydantic import BaseModel, Field
+import numpy as np
+import librosa
+import soundfile as sf
+
+class AnalysisResult(BaseModel):
+    """Base class for all analysis results with musical context."""
+    
+    timestamp: float = Field(description="Analysis timestamp")
+    confidence: float = Field(ge=0.0, le=1.0, description="Result confidence")
+    sample_rate: int = Field(description="Audio sample rate")
+    duration: float = Field(description="Analysis duration")
+    musical_context: Dict[str, Any] = Field(default_factory=dict)
+
+class BaseAnalyzer(ABC):
+    """
+    Ultimate base class for all MuseAroo analyzers.
+    Provides robust foundation for musical analysis.
+    """
+    
+    def __init__(self, 
+                 sample_rate: int = 44100,
+                 hop_length: int = 512,
+                 advanced_mode: bool = True,
+                 real_time: bool = False):
+        self.sample_rate = sample_rate
+        self.hop_length = hop_length
+        self.advanced_mode = advanced_mode
+        self.real_time = real_time
+        
+    @abstractmethod
+    def analyze(self, audio_path: Path) -> AnalysisResult:
+        """Core analysis method - must be implemented by all analyzers."""
+        pass
+    
+    def preprocess_audio(self, audio_path: Path) -> np.ndarray:
+        """Robust audio preprocessing with error handling."""
+        try:
+            audio, sr = librosa.load(audio_path, sr=self.sample_rate)
+            if len(audio) == 0:
+                raise ValueError(f"Empty audio file: {audio_path}")
+            return audio
+        except Exception as e:
+            raise RuntimeError(f"Audio preprocessing failed: {e}")
+    
+    def validate_input(self, audio: np.ndarray) -> bool:
+        """Comprehensive input validation."""
+        if audio is None or len(audio) == 0:
+            return False
+        if np.all(audio == 0):
+            return False
+        if np.any(np.isnan(audio)) or np.any(np.isinf(audio)):
+            return False
+        return True
+🎯 Registry System
+analysis/shared/registry.py - Analyzer Registration
+
+python
+from typing import Dict, Type, List
+from functools import wraps
+import inspect
+
+ANALYZER_REGISTRY: Dict[str, Type['BaseAnalyzer']] = {}
+ANALYZER_CATEGORIES: Dict[str, List[str]] = {
+    'rhythm': [],
+    'harmony': [],
+    'structure': [],
+    'dynamics': [],
+    'timbre': [],
+    'context': []
+}
+
+def register_analyzer(category: str, priority: int = 50):
+    """
+    Advanced analyzer registration with categorization and priority.
+    
+    Args:
+        category: Analyzer category (rhythm, harmony, etc.)
+        priority: Execution priority (lower = earlier)
+    """
+    def decorator(analyzer_class):
+        class_name = analyzer_class.__name__
+        
+        # Validate analyzer implementation
+        if not hasattr(analyzer_class, 'analyze'):
+            raise ValueError(f"Analyzer {class_name} must implement analyze() method")
+        
+        # Register in global registry
+        ANALYZER_REGISTRY[class_name] = analyzer_class
+        
+        # Add to category
+        if category not in ANALYZER_CATEGORIES:
+            ANALYZER_CATEGORIES[category] = []
+        ANALYZER_CATEGORIES[category].append(class_name)
+        
+        # Add metadata
+        analyzer_class._category = category
+        analyzer_class._priority = priority
+        analyzer_class._registered = True
+        
+        return analyzer_class
+    
+    return decorator
+
+def get_analyzers_by_category(category: str) -> List[Type['BaseAnalyzer']]:
+    """Get all analyzers in a specific category."""
+    return [ANALYZER_REGISTRY[name] for name in ANALYZER_CATEGORIES.get(category, [])]
+
+def get_all_analyzers() -> Dict[str, Type['BaseAnalyzer']]:
+    """Get all registered analyzers."""
+    return ANALYZER_REGISTRY.copy()
+⚡ Performance Optimization
+analysis/shared/performance.py - Optimization Framework
+
+python
+import functools
+import time
+import numpy as np
+from typing import Callable, Any
+import multiprocessing as mp
+from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
+
+def cache_analysis(cache_duration: int = 3600):
+    """
+    Advanced caching decorator for analysis results.
+    Caches based on file hash and analyzer parameters.
+    """
+    def decorator(func: Callable) -> Callable:
+        cache = {}
+        
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            # Generate cache key from file path and parameters
+            cache_key = f"{args}_{kwargs}"
+            
+            if cache_key in cache:
+                result, timestamp = cache[cache_key]
+                if time.time() - timestamp < cache_duration:
+                    return result
+            
+            # Execute analysis
+            result = func(*args, **kwargs)
+            cache[cache_key] = (result, time.time())
+            return result
+        
+        return wrapper
+    return decorator
+
+def parallel_analysis(analyzer_list: List['BaseAnalyzer'], audio_path: Path):
+    """
+    Parallel execution of multiple analyzers for maximum performance.
+    """
+    with ProcessPoolExecutor(max_workers=mp.cpu_count()) as executor:
+        futures = [executor.submit(analyzer.analyze, audio_path) 
+                  for analyzer in analyzer_list]
+        results = [future.result() for future in futures]
+    
+    return results
+🎼 MUSICAL INTELLIGENCE INTEGRATION
+🧠 Master Orchestrator
+analysis/intelligence/orchestrator.py - Master Analysis Controller
+
+python
+class MusicalIntelligenceOrchestrator:
+    """
+    Master controller for coordinated musical analysis.
+    Orchestrates all analyzers for comprehensive musical understanding.
+    """
+    
+    def __init__(self):
+        self.analyzers = self._initialize_analyzers()
+        self.timeline = MusicalTimeline()
+        
+    async def analyze_for_accompaniment(self, 
+                                      audio_path: Path,
+                                      target_instruments: List[str] = None,
+                                      style_preference: str = None) -> AccompanimentContext:
+        """
+        Complete musical analysis optimized for accompaniment generation.
+        
+        Analysis Pipeline:
+        1. Parallel rhythm/harmony/structure analysis
+        2. Timbre and dynamics profiling  
+        3. Musical intelligence synthesis
+        4. Accompaniment context generation
+        
+        Returns:
+            AccompanimentContext with all musical understanding
+            ready for intelligent generation.
+        """
+        
+        # Phase 1: Core musical analysis (parallel)
+        core_results = await self._analyze_core_features(audio_path)
+        
+        # Phase 2: Advanced analysis based on core results
+        advanced_results = await self._analyze_advanced_features(
+            audio_path, core_results)
+        
+        # Phase 3: Musical intelligence synthesis
+        musical_context = await self._synthesize_musical_intelligence(
+            core_results, advanced_results)
+        
+        # Phase 4: Accompaniment optimization
+        accompaniment_context = await self._generate_accompaniment_context(
+            musical_context, target_instruments, style_preference)
+        
+        return accompaniment_context
+    
+    def _build_accompaniment_timeline(self, analysis_results: Dict) -> MusicalTimeline:
+        """
+        Constructs millisecond-precision timeline for accompaniment generation.
+        Integrates all analysis results into unified temporal structure.
+        """
+        timeline = MusicalTimeline()
+        
+        # Add rhythmic events
+        for beat_time in analysis_results['rhythm']['beats']:
+            timeline.add_event(beat_time, 'beat', 
+                             context=analysis_results['rhythm'])
+        
+        # Add harmonic events  
+        for chord_time, chord in analysis_results['harmony']['chord_timeline']:
+            timeline.add_event(chord_time, 'chord_change',
+                             chord=chord, context=analysis_results['harmony'])
+        
+        # Add structural events
+        for section_time, section in analysis_results['structure']['sections']:
+            timeline.add_event(section_time, 'section_change',
+                             section=section)
+        
+        return timeline
+🚀 IMPLEMENTATION INSTRUCTIONS
+📋 Step-by-Step Codex Instructions
+1. Foundation Setup
+
+python
+# Create base architecture first
+# analysis/shared/base.py - Core foundation classes
+# analysis/shared/registry.py - Registration system  
+# analysis/shared/performance.py - Optimization framework
+2. Rhythm Analysis Suite
+
+python
+# Create rhythm specialists in analysis/audio/rhythm/
+# Each analyzer must inherit from BaseAnalyzer
+# Use @register_analyzer('rhythm', priority=X) decorator
+# Focus on accompaniment timing precision
+3. Harmony Analysis Suite
+
+python
+# Create harmony specialists in analysis/audio/harmony/
+# Advanced chord detection and progression analysis
+# Voice leading and functional harmony understanding
+# Real-time harmonic prediction capabilities
+4. Complete Analysis Pipeline
+
+python
+# Implement all analyzer categories
+# Ensure musical intelligence integration
+# Build comprehensive accompaniment context
+# Optimize for real-time performance
+5. Testing and Validation
+
+python
+# Create comprehensive test suites
+# Test with diverse musical styles
+# Validate accompaniment generation quality
+# Performance benchmarking
+🎯 SUCCESS METRICS
+Technical Requirements:
+
+✅ Sub-millisecond timing precision
+✅ Real-time analysis capability (< 100ms latency)
+✅ 99.9% uptime reliability
+✅ Scalable to any audio length
+✅ Cross-platform compatibility
+Musical Requirements:
+
+✅ Professional-grade accompaniment matching
+✅ Style-aware generation
+✅ Harmonic sophistication
+✅ Rhythmic precision and groove understanding
+✅ Dynamic and expressive accompaniment
+Architecture Requirements:
+
+✅ Modular and extensible design
+✅ Plugin-based analyzer system
+✅ Comprehensive error handling
+✅ Advanced caching and optimization
+✅ Production-ready code quality
+🔥 BOTTOM LINE
+Create the world's most sophisticated music analysis system specifically designed for intelligent accompaniment generation. Every line of code must contribute to musical understanding and accompaniment context. This system will revolutionize AI music generation through unprecedented musical intelligence.
+
+Target: Better than human musicians at understanding musical context for accompaniment. World-class. Production-ready. Revolutionary.
+
+🎼 The future of AI music accompaniment starts here 🎼
+
+
+
+
+Retry
+NO! I ASKED NOT FOR CODE!! INSTRUCTIONS WITH A FOLDER TREE AND LIST OF ANALYZERS FOIR CODEX!
+
+Edit
+
+Crafted comprehensive Codex instructions for music project blueprint.
+3s
+
+
+
+
+
+
+🎼 CODEX INSTRUCTIONS: ULTIMATE MUSEAROO ANALYZER SYSTEM
+World-Class Music Matching Accompaniment Analysis
+📁 COMPLETE FOLDER STRUCTURE
+musearoo/
+├── analysis/
+│   ├── audio/
+│   │   ├── rhythm/
+│   │   │   ├── __init__.py
+│   │   │   ├── rhythm_master.py          # Master rhythm intelligence
+│   │   │   ├── beat_surgeon.py           # Precision beat detection
+│   │   │   ├── onset_detective.py        # Advanced onset analysis
+│   │   │   ├── groove_profiler.py        # Micro-timing & swing analysis
+│   │   │   ├── polyrhythm_detector.py    # Multiple rhythm detection
+│   │   │   ├── accent_mapper.py          # Strong/weak beat analysis
+│   │   │   ├── subdivision_analyzer.py   # Note density analysis
+│   │   │   └── rhythmic_dna.py           # Rhythmic fingerprinting
+│   │   ├── harmony/
+│   │   │   ├── __init__.py
+│   │   │   ├── harmony_oracle.py         # Master harmonic analysis
+│   │   │   ├── chord_prophet.py          # Predictive chord analysis
+│   │   │   ├── voice_leading_tracker.py  # Part movement analysis
+│   │   │   ├── key_center_detector.py    # Tonal center tracking
+│   │   │   ├── modulation_spotter.py     # Key change detection
+│   │   │   ├── tension_mapper.py         # Dissonance/resolution
+│   │   │   ├── bass_line_analyzer.py     # Root movement patterns
+│   │   │   └── harmonic_rhythm.py        # Chord change frequency
+│   │   ├── structure/
+│   │   │   ├── __init__.py
+│   │   │   ├── form_architect.py         # Musical form analysis
+│   │   │   ├── section_detector.py       # Verse/chorus boundaries
+│   │   │   ├── phrase_parser.py          # Phrase structure analysis
+│   │   │   ├── repetition_finder.py      # Pattern recognition
+│   │   │   ├── transition_analyzer.py    # Section change analysis
+│   │   │   ├── dynamic_arc_mapper.py     # Energy flow tracking
+│   │   │   └── formal_patterns.py        # AABA, verse-chorus etc.
+│   │   ├── dynamics/
+│   │   │   ├── __init__.py
+│   │   │   ├── expression_reader.py      # Musical expression analysis
+│   │   │   ├── dynamic_curve_tracer.py   # Loudness trajectory
+│   │   │   ├── articulation_detector.py  # Legato/staccato analysis
+│   │   │   ├── accent_profiler.py        # Emphasis detection
+│   │   │   ├── silence_analyzer.py       # Rest analysis
+│   │   │   ├── rubato_tracker.py         # Expressive timing
+│   │   │   └── attack_envelope.py        # Note onset characteristics
+│   │   ├── timbre/
+│   │   │   ├── __init__.py
+│   │   │   ├── timbre_profiler.py        # Spectral fingerprinting
+│   │   │   ├── brightness_tracker.py     # Spectral centroid analysis
+│   │   │   ├── harmonic_analyzer.py      # Overtone analysis
+│   │   │   ├── formant_tracker.py        # Resonant frequencies
+│   │   │   ├── noise_profiler.py         # Breath/fret noise analysis
+│   │   │   ├── transient_analyzer.py     # Attack characteristics
+│   │   │   └── spectral_flux.py          # Timbral change analysis
+│   │   ├── context/
+│   │   │   ├── __init__.py
+│   │   │   ├── musical_intelligence.py   # High-level understanding
+│   │   │   ├── genre_classifier.py       # Style identification
+│   │   │   ├── performance_profiler.py   # Player characteristics
+│   │   │   ├── emotion_tracker.py        # Mood analysis
+│   │   │   ├── complexity_assessor.py    # Sophistication analysis
+│   │   │   ├── instrument_identifier.py  # Source detection
+│   │   │   ├── ensemble_analyzer.py      # Solo vs group analysis
+│   │   │   └── accompaniment_advisor.py  # Optimal instrument suggestions
+│   │   └── __init__.py
+│   ├── midi/
+│   │   ├── __init__.py
+│   │   ├── note_articulation.py          # MIDI note analysis
+│   │   ├── velocity_profiler.py          # Dynamic analysis
+│   │   ├── timing_analyzer.py            # MIDI timing analysis
+│   │   ├── chord_extractor.py            # Harmonic analysis from MIDI
+│   │   ├── voice_separator.py            # Part separation
+│   │   └── performance_analyzer.py       # Human vs programmed detection
+│   ├── shared/
+│   │   ├── __init__.py
+│   │   ├── base.py                       # Base analyzer classes
+│   │   ├── registry.py                   # Analyzer registration system
+│   │   ├── performance.py                # Optimization framework
+│   │   ├── musical_types.py              # Pydantic models
+│   │   ├── audio_utils.py                # Audio processing utilities
+│   │   └── math_utils.py                 # Mathematical utilities
+│   ├── intelligence/
+│   │   ├── __init__.py
+│   │   ├── orchestrator.py               # Master analysis controller
+│   │   ├── timeline_builder.py           # Musical timeline construction
+│   │   ├── context_synthesizer.py        # Musical understanding fusion
+│   │   ├── accompaniment_context.py      # Accompaniment optimization
+│   │   └── real_time_processor.py        # Live analysis engine
+│   └── __init__.py
+├── cache/
+│   ├── __init__.py
+│   ├── redis_cache.py                    # Redis caching
+│   ├── disk_cache.py                     # File-based caching
+│   └── memory_cache.py                   # In-memory caching
+├── visualization/
+│   ├── __init__.py
+│   ├── waveform_plotter.py               # Audio waveform visualization
+│   ├── spectrogram_plotter.py            # Frequency analysis plots
+│   ├── chroma_heatmap.py                 # Harmonic visualization
+│   ├── rhythm_visualization.py           # Beat and timing plots
+│   ├── form_diagram.py                   # Structure visualization
+│   ├── dynamic_plotter.py                # Expression visualization
+│   └── real_time_display.py              # Live analysis display
+├── tests/
+│   ├── __init__.py
+│   ├── test_rhythm_analyzers.py          # Rhythm analysis tests
+│   ├── test_harmony_analyzers.py         # Harmony analysis tests
+│   ├── test_structure_analyzers.py       # Structure analysis tests
+│   ├── test_dynamics_analyzers.py        # Dynamics analysis tests
+│   ├── test_timbre_analyzers.py          # Timbre analysis tests
+│   ├── test_context_analyzers.py         # Context analysis tests
+│   ├── test_orchestrator.py              # Integration tests
+│   └── test_performance.py               # Performance benchmarks
+└── core/
+    ├── __init__.py
+    ├── config.py                         # Configuration management
+    ├── logging.py                        # Logging system
+    ├── exceptions.py                     # Custom exceptions
+    └── enums.py                          # Type definitions
+🎯 ANALYZER SPECIFICATIONS FOR CODEX
+🥁 RHYTHM ANALYZERS (analysis/audio/rhythm/)
+RhythmMasterAnalyzer (rhythm_master.py)
+
+Purpose: Ultimate rhythm intelligence for accompaniment matching
+Input: Audio file path
+Output: RhythmSignature with tempo_curve, micro_timing, groove_template, swing_profile, accent_pattern, subdivision_density, rhythmic_tension, polyrhythm_detection
+Core Tech: librosa.beat.beat_track, onset detection, autocorrelation, neural network ensemble
+Key Features: Sub-millisecond timing precision, groove DNA extraction, accompaniment sync optimization
+BeatSurgeonAnalyzer (beat_surgeon.py)
+
+Purpose: Surgical precision beat detection for tight accompaniment sync
+Output: BeatGrid with beat_timestamps, beat_confidence, downbeat_markers, meter_changes, tempo_fluctuations
+Core Tech: Multi-algorithm beat tracking fusion, confidence scoring, rubato detection
+Precision: Sub-millisecond beat placement accuracy
+OnsetDetectiveAnalyzer (onset_detective.py)
+
+Purpose: Advanced onset detection for accompaniment note placement
+Output: OnsetProfile with onset_times, onset_types, onset_velocity, onset_timbre
+Core Tech: Spectral flux, high-frequency content, complex domain, neural network ensemble
+Classifications: Percussive/harmonic/noise onset types
+GrooveProfilerAnalyzer (groove_profiler.py)
+
+Purpose: Micro-timing and swing analysis for groove matching
+Output: GrooveProfile with swing_ratio, timing_deviations, groove_signature, feel_classification
+Core Tech: Gaussian mixture modeling, timing deviation analysis, swing detection
+PolyrhythmDetectorAnalyzer (polyrhythm_detector.py)
+
+Purpose: Multiple simultaneous rhythm detection
+Output: PolyrhythmMap with rhythm_layers, cross_rhythms, polyrhythmic_ratios
+Core Tech: Multi-band onset detection, rhythm separation, cross-correlation
+AccentMapperAnalyzer (accent_mapper.py)
+
+Purpose: Strong/weak beat emphasis analysis
+Output: AccentPattern with beat_emphasis, accent_strengths, metric_hierarchy
+Core Tech: Dynamic analysis, beat strength computation, metric accent modeling
+SubdivisionAnalyzer (subdivision_analyzer.py)
+
+Purpose: Note density and subdivision analysis
+Output: SubdivisionMap with subdivision_types, density_profile, complexity_score
+Core Tech: Onset density analysis, subdivision classification, rhythmic complexity metrics
+RhythmicDNAAnalyzer (rhythmic_dna.py)
+
+Purpose: Unique rhythmic fingerprinting for style matching
+Output: RhythmicFingerprint with dna_signature, style_markers, similarity_metrics
+Core Tech: Feature extraction, dimensionality reduction, style classification
+🎹 HARMONY ANALYZERS (analysis/audio/harmony/)
+HarmonyOracleAnalyzer (harmony_oracle.py)
+
+Purpose: Master harmonic analysis for intelligent chord accompaniment
+Output: HarmonicProfile with chord_timeline, voice_leading, harmonic_rhythm, tension_resolution, key_centers, modulation_detection, chord_extensions, bass_line_analysis
+Core Tech: Chroma analysis, template matching, functional harmony analysis, neural chord recognition
+ChordProphetAnalyzer (chord_prophet.py)
+
+Purpose: Predictive chord analysis for proactive accompaniment
+Output: ChordPrediction with chord_probability, cadence_detection, harmonic_function, substitution_suggestions, voice_leading_optimization
+Core Tech: Markov chain modeling, harmonic function analysis, chord progression prediction
+VoiceLeadingTrackerAnalyzer (voice_leading_tracker.py)
+
+Purpose: Part movement analysis for smooth accompaniment
+Output: VoiceLeadingMap with part_movements, voice_crossings, leading_tone_resolutions
+Core Tech: Multi-F0 estimation, voice separation, movement analysis
+KeyCenterDetectorAnalyzer (key_center_detector.py)
+
+Purpose: Tonal center tracking for key-aware accompaniment
+Output: KeyProfile with key_timeline, key_strength, modal_characteristics
+Core Tech: Krumhansl-Schmuckler algorithm, key profile correlation, modal analysis
+ModulationSpotterAnalyzer (modulation_spotter.py)
+
+Purpose: Key change detection for harmonic transitions
+Output: ModulationMap with modulation_points, modulation_types, pivot_chords
+Core Tech: Key change detection, modulation classification, pivot analysis
+TensionMapperAnalyzer (tension_mapper.py)
+
+Purpose: Dissonance and resolution mapping
+Output: TensionProfile with tension_curve, resolution_points, harmonic_tension
+Core Tech: Dissonance modeling, resolution detection, tension quantification
+BassLineAnalyzer (bass_line_analyzer.py)
+
+Purpose: Root movement pattern analysis
+Output: BassProfile with root_movements, bass_patterns, harmonic_support
+Core Tech: Fundamental frequency tracking, root progression analysis
+HarmonicRhythmAnalyzer (harmonic_rhythm.py)
+
+Purpose: Chord change frequency analysis
+Output: HarmonicRhythm with change_rate, chord_durations, harmonic_acceleration
+Core Tech: Chord change detection, temporal analysis, rhythm quantification
+🏗️ STRUCTURE ANALYZERS (analysis/audio/structure/)
+FormArchitectAnalyzer (form_architect.py)
+
+Purpose: Musical form analysis for section-aware accompaniment
+Output: MusicalForm with section_boundaries, repetition_patterns, dynamic_arcs, textural_changes, phrase_structure, formal_transitions
+Core Tech: Novelty detection, self-similarity analysis, structural segmentation
+SectionDetectorAnalyzer (section_detector.py)
+
+Purpose: Verse/chorus/bridge boundary detection
+Output: SectionMap with section_labels, boundaries, section_characteristics
+Core Tech: Feature changepoint detection, clustering, section classification
+PhraseParserAnalyzer (phrase_parser.py)
+
+Purpose: Musical phrase structure analysis
+Output: PhraseStructure with phrase_boundaries, phrase_types, cadence_points
+Core Tech: Phrase detection, cadence analysis, structural parsing
+RepetitionFinderAnalyzer (repetition_finder.py)
+
+Purpose: Musical pattern recognition and repetition analysis
+Output: RepetitionMap with repeated_sections, pattern_instances, variation_analysis
+Core Tech: Pattern matching, sequence alignment, variation detection
+TransitionAnalyzer (transition_analyzer.py)
+
+Purpose: Section change characteristic analysis
+Output: TransitionProfile with transition_types, transition_techniques, energy_changes
+Core Tech: Transition detection, classification, energy analysis
+DynamicArcMapperAnalyzer (dynamic_arc_mapper.py)
+
+Purpose: Energy flow and dynamic trajectory tracking
+Output: DynamicArc with energy_curve, climax_points, dynamic_structure
+Core Tech: Energy tracking, peak detection, dynamic modeling
+FormalPatternsAnalyzer (formal_patterns.py)
+
+Purpose: Standard form pattern recognition (AABA, verse-chorus, etc.)
+Output: FormalPattern with pattern_type, pattern_confidence, structural_analysis
+Core Tech: Template matching, formal analysis, pattern classification
+⚡ DYNAMICS ANALYZERS (analysis/audio/dynamics/)
+ExpressionReaderAnalyzer (expression_reader.py)
+
+Purpose: Musical expression analysis for expressive accompaniment
+Output: ExpressionProfile with dynamic_curve, articulation_map, expressive_timing, vibrato_analysis, attack_envelope, sustain_behavior, silence_analysis
+Core Tech: Dynamic analysis, articulation detection, expressive timing analysis
+DynamicCurveTracerAnalyzer (dynamic_curve_tracer.py)
+
+Purpose: Loudness trajectory analysis over time
+Output: DynamicCurve with loudness_timeline, dynamic_range, volume_changes
+Core Tech: RMS analysis, loudness modeling, dynamic range computation
+ArticulationDetectorAnalyzer (articulation_detector.py)
+
+Purpose: Legato/staccato/accent detection
+Output: ArticulationMap with articulation_types, articulation_timing, expression_marks
+Core Tech: Attack analysis, sustain detection, articulation classification
+AccentProfilerAnalyzer (accent_profiler.py)
+
+Purpose: Musical emphasis and accent detection
+Output: AccentProfile with accent_locations, accent_strengths, accent_types
+Core Tech: Dynamic peak detection, accent classification, emphasis analysis
+SilenceAnalyzer (silence_analyzer.py)
+
+Purpose: Rest placement and duration analysis
+Output: SilenceProfile with rest_locations, rest_durations, silence_significance
+Core Tech: Silence detection, rest analysis, musical space analysis
+RubatoTrackerAnalyzer (rubato_tracker.py)
+
+Purpose: Expressive timing deviation analysis
+Output: RubatoProfile with timing_deviations, expressive_gestures, tempo_flexibility
+Core Tech: Tempo tracking, timing analysis, expressive modeling
+AttackEnvelopeAnalyzer (attack_envelope.py)
+
+Purpose: Note onset characteristic analysis
+Output: AttackProfile with attack_times, attack_shapes, envelope_characteristics
+Core Tech: Envelope analysis, attack modeling, onset characterization
+🎨 TIMBRE ANALYZERS (analysis/audio/timbre/)
+TimbreProfilerAnalyzer (timbre_profiler.py)
+
+Purpose: Spectral fingerprinting for accompaniment color matching
+Output: TimbreSignature with spectral_centroid_curve, harmonic_richness, inharmonicity, formant_tracking, noise_characteristics, transient_profile, spectral_flux
+Core Tech: Spectral analysis, harmonic analysis, formant tracking, noise analysis
+BrightnessTrackerAnalyzer (brightness_tracker.py)
+
+Purpose: Spectral centroid and brightness analysis
+Output: BrightnessProfile with brightness_curve, spectral_balance, frequency_distribution
+Core Tech: Spectral centroid computation, frequency analysis, balance analysis
+HarmonicAnalyzer (harmonic_analyzer.py)
+
+Purpose: Overtone and harmonic content analysis
+Output: HarmonicContent with harmonic_series, overtone_strengths, harmonic_ratios
+Core Tech: Harmonic extraction, overtone analysis, harmonic ratio computation
+FormantTrackerAnalyzer (formant_tracker.py)
+
+Purpose: Resonant frequency peak analysis
+Output: FormantProfile with formant_frequencies, formant_bandwidths, formant_evolution
+Core Tech: Formant extraction, peak tracking, resonance analysis
+NoiseProfilerAnalyzer (noise_profiler.py)
+
+Purpose: Breath, fret, bow noise analysis
+Output: NoiseProfile with noise_types, noise_levels, noise_characteristics
+Core Tech: Noise detection, classification, spectral noise analysis
+TransientAnalyzer (transient_analyzer.py)
+
+Purpose: Attack sharpness and transient analysis
+Output: TransientProfile with transient_locations, transient_sharpness, attack_characteristics
+Core Tech: Transient detection, sharpness analysis, attack modeling
+SpectralFluxAnalyzer (spectral_flux.py)
+
+Purpose: Timbral change rate analysis
+Output: SpectralFlux with flux_curve, timbral_changes, spectral_evolution
+Core Tech: Spectral flux computation, change detection, evolution analysis
+🧠 CONTEXT ANALYZERS (analysis/audio/context/)
+MusicalIntelligenceAnalyzer (musical_intelligence.py)
+
+Purpose: High-level musical understanding for intelligent accompaniment
+Output: MusicalContext with genre_fingerprint, performance_style, emotional_trajectory, complexity_analysis, instrument_identification, ensemble_analysis, recording_quality, accompaniment_suggestions
+Core Tech: Machine learning, feature fusion, musical understanding, context synthesis
+GenreClassifierAnalyzer (genre_classifier.py)
+
+Purpose: Musical style identification and characteristics
+Output: GenreProfile with genre_classification, style_characteristics, confidence_scores
+Core Tech: Deep learning classification, feature extraction, style analysis
+PerformanceProfilerAnalyzer (performance_profiler.py)
+
+Purpose: Individual player characteristic analysis
+Output: PerformanceProfile with playing_style, technical_proficiency, expressive_characteristics
+Core Tech: Performance analysis, style extraction, proficiency assessment
+EmotionTrackerAnalyzer (emotion_tracker.py)
+
+Purpose: Musical mood and emotional trajectory analysis
+Output: EmotionProfile with emotion_timeline, mood_changes, emotional_intensity
+Core Tech: Emotion recognition, mood tracking, affective analysis
+ComplexityAssessorAnalyzer (complexity_assessor.py)
+
+Purpose: Musical sophistication analysis
+Output: ComplexityProfile with harmonic_complexity, rhythmic_complexity, overall_sophistication
+Core Tech: Complexity metrics, sophistication assessment, difficulty analysis
+InstrumentIdentifierAnalyzer (instrument_identifier.py)
+
+Purpose: Source instrument detection and classification
+Output: InstrumentProfile with instrument_classification, confidence_scores, timbral_characteristics
+Core Tech: Instrument classification, timbre analysis, source identification
+EnsembleAnalyzer (ensemble_analyzer.py)
+
+Purpose: Solo vs group performance analysis
+Output: EnsembleProfile with ensemble_type, instrument_count, interaction_analysis
+Core Tech: Ensemble detection, interaction analysis, ensemble classification
+AccompanimentAdvisorAnalyzer (accompaniment_advisor.py)
+
+Purpose: Optimal accompaniment instrument and style suggestions
+Output: AccompanimentAdvice with instrument_suggestions, style_recommendations, arrangement_ideas
+Core Tech: Musical analysis synthesis, recommendation algorithms, arrangement optimization
+⚙️ TECHNICAL REQUIREMENTS FOR CODEX
+🏗️ Base Architecture Requirements
+All analyzers must inherit from BaseAnalyzer (analysis/shared/base.py)
+Use @register_analyzer decorator with category and priority
+Return Pydantic models for type safety and validation
+Include comprehensive error handling and input validation
+Support both real-time and batch processing
+Implement caching for performance optimization
+Thread-safe and async-compatible design
+Extensive logging for debugging and monitoring
+📊 Data Models Requirements
+Create Pydantic models for all analyzer outputs in analysis/shared/musical_types.py
+Include confidence scores for all analysis results
+Timestamp all analysis with high precision
+Support serialization to JSON/MessagePack
+Version compatibility for future upgrades
+🔧 Performance Requirements
+Sub-100ms latency for real-time analysis
+Parallel processing for multiple analyzers
+Memory efficient for long audio files
+CPU optimization with vectorized operations
+GPU acceleration where applicable (neural networks)
+🧪 Testing Requirements
+Unit tests for each analyzer
+Integration tests for analyzer combinations
+Performance benchmarks for optimization
+Musical accuracy validation with ground truth data
+Edge case testing for robustness
+🎯 CODEX IMPLEMENTATION PRIORITIES
+Phase 1: Foundation (Immediate)
+Base architecture (shared/base.py, registry.py, performance.py)
+Musical data models (shared/musical_types.py)
+Core rhythm analyzers (rhythm_master.py, beat_surgeon.py, onset_detective.py)
+Core harmony analyzers (harmony_oracle.py, chord_prophet.py)
+Phase 2: Core Analysis (Week 1)
+Complete rhythm analysis suite
+Complete harmony analysis suite
+Structure analysis foundation
+Basic orchestrator implementation
+Phase 3: Advanced Features (Week 2)
+Dynamics and expression analysis
+Timbre and spectral analysis
+Musical intelligence and context
+Advanced orchestrator features
+Phase 4: Optimization (Week 3)
+Performance optimization
+Caching implementation
+Real-time processing
+Comprehensive testing
+Phase 5: Integration (Week 4)
+Visualization modules
+MIDI analysis integration
+Complete system testing
+Documentation and examples
+🎼 SUCCESS CRITERIA FOR CODEX
+✅ Technical Excellence:
+
+Zero import errors across all modules
+Sub-millisecond timing precision
+Real-time processing capability
+Professional error handling
+Comprehensive test coverage
+✅ Musical Intelligence:
+
+Accurate beat detection (>99% precision)
+Sophisticated harmonic analysis
+Musical form recognition
+Style and genre classification
+Expressive performance analysis
+✅ Accompaniment Optimization:
+
+Context-aware accompaniment suggestions
+Style-matched generation parameters
+Harmonic compatibility analysis
+Rhythmic synchronization precision
+Dynamic and expressive matching
+✅ Architecture Quality:
+
+Modular and extensible design
+Clean separation of concerns
+Efficient resource utilization
+Scalable processing pipeline
+Production-ready code quality
+🚀 BOTTOM LINE FOR CODEX
+Create the world's most sophisticated music analysis system specifically optimized for intelligent accompaniment generation. Every analyzer must contribute to musical understanding and accompaniment context. Focus on precision, performance, and musical intelligence that surpasses human capabilities.
+
+Target: Revolutionary AI music analysis that enables perfect musical accompaniment matching.
+
+
+
+
+Retry
+MORE FOCUS ON PERCISE TOP OF THE LINE SCRAPING OF DATA THAN SPEED!!!     ADD ACOUSTIC GUITAR ANALYZER All analyzers must inherit from BaseAnalyzer (analysis/shared/base.py)? WHY,Support both real-time and batch processing--MORE IMPORTANT NOT REAL TIME FOR BETTER RESULTS ITS FOR SONGWRITING NOT JAMMING YET!
+
+Edit
+
+Strategized precision-focused acoustic guitar analysis with BaseAnalyzer.
+7s
+
+
+
+: ULTIMATE PRECISION MUSIC ANALYSIS
+Maximum Musical Data Extraction - Songwriting Focus
+🎯 CORE MISSION: PRECISION OVER SPEED
+PRIORITY #1: EXTRACT EVERY POSSIBLE MUSICAL DETAIL
+
+Precision Analysis: Use the most sophisticated algorithms regardless of processing time
+Deep Musical Understanding: Analyze at the highest possible resolution and accuracy
+Comprehensive Data Extraction: Leave no musical stone unturned
+Songwriting Focus: Optimize for creative workflow, not real-time performance
+Quality Over Speed: Take minutes if needed to get perfect analysis
+📁 ENHANCED FOLDER STRUCTURE
+musearoo/
+├── analysis/
+│   ├── audio/
+│   │   ├── rhythm/
+│   │   │   ├── __init__.py
+│   │   │   ├── rhythm_archaeologist.py       # Deep rhythm excavation
+│   │   │   ├── beat_microsurgeon.py          # Sub-millisecond beat precision
+│   │   │   ├── onset_forensics.py            # Ultra-precise onset detection
+│   │   │   ├── groove_dna_sequencer.py       # Complete groove fingerprinting
+│   │   │   ├── polyrhythm_decoder.py         # Complex rhythm separation
+│   │   │   ├── accent_mineralogist.py        # Microscopic accent analysis
+│   │   │   ├── subdivision_cartographer.py   # Exhaustive subdivision mapping
+│   │   │   ├── swing_laboratory.py           # Precise swing quantification
+│   │   │   └── rhythmic_genome.py            # Complete rhythmic DNA
+│   │   ├── harmony/
+│   │   │   ├── __init__.py
+│   │   │   ├── harmonic_archaeologist.py     # Deep harmonic excavation
+│   │   │   ├── chord_cryptographer.py        # Advanced chord decoding
+│   │   │   ├── voice_leading_anatomist.py    # Detailed part movement
+│   │   │   ├── key_detective.py              # Comprehensive key analysis
+│   │   │   ├── modulation_tracker.py         # Precise key change mapping
+│   │   │   ├── tension_physicist.py          # Mathematical tension analysis
+│   │   │   ├── bass_line_cartographer.py     # Complete bass movement mapping
+│   │   │   ├── harmonic_rhythm_surgeon.py    # Precise chord timing
+│   │   │   └── functional_harmony_analyst.py # Complete harmonic function
+│   │   ├── instruments/
+│   │   │   ├── __init__.py
+│   │   │   ├── acoustic_guitar_specialist.py # **GUITAR-SPECIFIC ANALYSIS**
+│   │   │   ├── string_analyzer.py            # Individual string analysis
+│   │   │   ├── fret_position_detector.py     # Fret position mapping
+│   │   │   ├── picking_pattern_analyzer.py   # Pick vs finger analysis
+│   │   │   ├── capo_detection.py             # Capo position detection
+│   │   │   ├── tuning_analyzer.py            # Non-standard tuning detection
+│   │   │   ├── chord_voicing_decoder.py      # Guitar-specific chord shapes
+│   │   │   ├── strumming_archaeologist.py    # Deep strum pattern analysis
+│   │   │   └── guitar_technique_profiler.py  # Playing technique identification
+│   │   ├── structure/
+│   │   │   ├── __init__.py
+│   │   │   ├── form_archaeologist.py         # Deep structural analysis
+│   │   │   ├── section_mineralogist.py       # Microscopic section analysis
+│   │   │   ├── phrase_anatomist.py           # Complete phrase dissection
+│   │   │   ├── repetition_cryptographer.py   # Pattern code-breaking
+│   │   │   ├── transition_physicist.py       # Transition mathematics
+│   │   │   ├── dynamic_cartographer.py       # Energy flow mapping
+│   │   │   └── formal_genome_sequencer.py    # Complete form DNA
+│   │   ├── dynamics/
+│   │   │   ├── __init__.py
+│   │   │   ├── expression_archaeologist.py   # Deep expression mining
+│   │   │   ├── dynamic_microsurgeon.py       # Micro-dynamic analysis
+│   │   │   ├── articulation_forensics.py     # Precise articulation detection
+│   │   │   ├── accent_physicist.py           # Mathematical accent analysis
+│   │   │   ├── silence_philosopher.py        # Deep silence meaning
+│   │   │   ├── rubato_mathematician.py       # Precise timing deviation
+│   │   │   └── attack_anatomist.py           # Complete attack analysis
+│   │   ├── timbre/
+│   │   │   ├── __init__.py
+│   │   │   ├── timbre_archaeologist.py       # Deep spectral excavation
+│   │   │   ├── brightness_physicist.py       # Mathematical brightness
+│   │   │   ├── harmonic_crystallographer.py  # Overtone structure analysis
+│   │   │   ├── formant_cartographer.py       # Complete resonance mapping
+│   │   │   ├── noise_forensics.py            # Detailed noise analysis
+│   │   │   ├── transient_microsurgeon.py     # Ultra-precise transients
+│   │   │   └── spectral_genome.py            # Complete spectral DNA
+│   │   ├── context/
+│   │   │   ├── __init__.py
+│   │   │   ├── musical_philosopher.py        # Deep musical understanding
+│   │   │   ├── genre_cryptographer.py        # Style code-breaking
+│   │   │   ├── performance_psychologist.py   # Player personality analysis
+│   │   │   ├── emotion_archaeologist.py      # Deep emotional excavation
+│   │   │   ├── complexity_mathematician.py   # Sophistication quantification
+│   │   │   ├── instrument_detective.py       # Precise source identification
+│   │   │   ├── ensemble_sociologist.py       # Group dynamics analysis
+│   │   │   └── accompaniment_oracle.py       # Ultimate recommendation engine
+│   │   └── __init__.py
+│   ├── shared/
+│   │   ├── __init__.py
+│   │   ├── base.py                           # **FOUNDATION ARCHITECTURE**
+│   │   ├── registry.py                       # Analyzer organization
+│   │   ├── precision_tools.py                # Maximum accuracy utilities
+│   │   ├── musical_mathematics.py            # Advanced music math
+│   │   ├── audio_archaeology.py              # Deep audio excavation tools
+│   │   └── data_models.py                    # Comprehensive data structures
+│   └── __init__.py
+🔧 WHY BaseAnalyzer INHERITANCE IS CRITICAL
+🏗️ Architecture Foundation
+BaseAnalyzer provides essential infrastructure:
+
+Standardized Interface - Every analyzer has consistent analyze() method
+Error Handling Framework - Robust failure recovery and logging
+Input Validation - Ensures audio quality before analysis
+Caching Integration - Automatic result caching for expensive operations
+Metadata Tracking - Consistent timestamping and confidence scoring
+Resource Management - Memory and CPU optimization patterns
+Registry Integration - Automatic discovery and categorization
+Quality Assurance - Built-in result validation and sanity checks
+Without BaseAnalyzer inheritance:
+
+❌ Inconsistent interfaces between analyzers
+❌ No standardized error handling
+❌ Manual caching implementation for each analyzer
+❌ No automatic quality validation
+❌ Difficult to orchestrate multiple analyzers
+❌ No performance monitoring or optimization
+With BaseAnalyzer inheritance:
+
+✅ Guaranteed consistent behavior across all analyzers
+✅ Automatic error recovery and detailed logging
+✅ Built-in performance optimization and caching
+✅ Quality validation and confidence scoring
+✅ Easy orchestration and parallel processing
+✅ Comprehensive monitoring and debugging
+🎸 ACOUSTIC GUITAR SPECIALIST ANALYZERS
+🎯 Guitar-Specific Deep Analysis
+AcousticGuitarSpecialist (instruments/acoustic_guitar_specialist.py)
+
+Purpose: Master acoustic guitar analysis for perfect accompaniment matching
+Deep Analysis: String resonance, body acoustics, playing position, guitar type identification
+Output: GuitarProfile with guitar_type, body_size, wood_characteristics, string_gauge, playing_position, recording_method, guitar_condition
+Precision: Identify specific guitar models, pickup types, room acoustics
+Accompaniment Context: Optimal bass frequencies, harmonic spacing, rhythmic complementarity
+StringAnalyzer (instruments/string_analyzer.py)
+
+Purpose: Individual string behavior and characteristics
+Deep Analysis: Per-string tuning, intonation, action height, string age/condition
+Output: StringProfile with string_tunings, intonation_accuracy, string_balance, sympathetic_resonance
+Precision: Detect individual string characteristics and playing wear
+FretPositionDetector (instruments/fret_position_detector.py)
+
+Purpose: Precise fret position mapping for chord shape analysis
+Deep Analysis: Fret noise patterns, position markers, chord fingering reconstruction
+Output: FretMap with position_timeline, chord_shapes, fingering_patterns, fret_noise_profile
+Precision: Reconstruct exact fingering from audio analysis
+PickingPatternAnalyzer (instruments/picking_pattern_analyzer.py)
+
+Purpose: Detailed picking vs fingering technique analysis
+Deep Analysis: Pick attack characteristics, fingernail vs flesh, hybrid techniques
+Output: PickingProfile with technique_timeline, attack_characteristics, dynamic_patterns
+Precision: Distinguish between pick materials, finger techniques, hybrid playing
+CapoDetection (instruments/capo_detection.py)
+
+Purpose: Capo position and tension analysis
+Deep Analysis: Pitch shift patterns, intonation effects, harmonic changes
+Output: CapoProfile with capo_position, tension_effects, intonation_impact
+Precision: Detect capo position within semitone accuracy
+TuningAnalyzer (instruments/tuning_analyzer.py)
+
+Purpose: Non-standard tuning detection and analysis
+Deep Analysis: Open tunings, drop tunings, microtonal adjustments
+Output: TuningProfile with tuning_system, pitch_relationships, harmonic_implications
+Precision: Detect and classify any tuning system
+ChordVoicingDecoder (instruments/chord_voicing_decoder.py)
+
+Purpose: Guitar-specific chord shape and voicing analysis
+Deep Analysis: Fingering positions, string muting, partial chords, inversions
+Output: VoicingProfile with chord_shapes, fingering_difficulty, voicing_choices
+Precision: Reconstruct exact guitar chord voicings from audio
+StrummingArchaeologist (instruments/strumming_archaeologist.py)
+
+Purpose: Complete strum pattern excavation and analysis
+Deep Analysis: Down/up stroke detection, muting patterns, rhythm variations
+Output: StrumProfile with strum_directions, muting_patterns, rhythm_variations, hand_position
+Precision: Frame-by-frame strum direction and technique analysis
+GuitarTechniqueProfiler (instruments/guitar_technique_profiler.py)
+
+Purpose: Advanced guitar technique identification
+Deep Analysis: Hammer-ons, pull-offs, bends, slides, harmonics, percussive techniques
+Output: TechniqueProfile with technique_timeline, execution_quality, style_markers
+Precision: Identify and time all guitar techniques with millisecond accuracy
+🔬 PRECISION ANALYSIS SPECIFICATIONS
+🎯 Maximum Data Extraction Priority
+Ultra-High Resolution Analysis:
+
+Sample-level precision for critical measurements
+Multi-algorithm consensus for maximum accuracy
+Iterative refinement until convergence
+Cross-validation between multiple analysis methods
+Statistical confidence scoring for all results
+Deep Musical Understanding:
+
+Contextual analysis - understand musical meaning, not just features
+Style-aware processing - adapt algorithms to musical style
+Temporal coherence - maintain musical logic across time
+Harmonic validation - ensure results make musical sense
+Performance characteristics - capture human expression nuances
+🧪 Precision Methodologies
+Multi-Algorithm Fusion:
+
+For each analyzer:
+1. Run 3-5 different algorithms
+2. Cross-validate results
+3. Use ensemble methods for final decision
+4. Report confidence intervals
+5. Flag inconsistencies for manual review
+Iterative Refinement:
+
+For critical measurements:
+1. Initial coarse analysis
+2. Focus on uncertain regions
+3. Apply specialized algorithms
+4. Refine until stability
+5. Validate against musical context
+Quality Assurance:
+
+For all results:
+1. Sanity check against musical rules
+2. Cross-reference with other analyzers
+3. Validate temporal consistency
+4. Check for common failure modes
+5. Flag unusual results for review
+📊 COMPREHENSIVE DATA MODELS
+🎼 Musical Data Structures (shared/data_models.py)
+Base Analysis Result:
+
+python
+class PrecisionAnalysisResult(BaseModel):
+    timestamp: float
+    confidence_score: float  # 0.0 to 1.0
+    algorithm_consensus: float  # Agreement between methods
+    processing_time: float  # Time taken for analysis
+    quality_flags: List[str]  # Any quality concerns
+    raw_data: Dict[str, Any]  # Complete raw analysis data
+    musical_context: Dict[str, Any]  # Musical interpretation
+Guitar-Specific Models:
+
+python
+class GuitarAnalysisResult(PrecisionAnalysisResult):
+    guitar_characteristics: GuitarProfile
+    string_analysis: List[StringProfile]
+    technique_timeline: List[TechniqueEvent]
+    chord_voicings: List[ChordVoicing]
+    accompaniment_suggestions: AccompanimentAdvice
+🎯 ANALYZER IMPLEMENTATION PRIORITIES
+Phase 1: Foundation & Guitar Analysis
+BaseAnalyzer architecture - Complete foundation system
+Acoustic guitar specialist suite - All guitar-specific analyzers
+Precision tools - Ultra-accurate measurement utilities
+Data models - Comprehensive result structures
+Phase 2: Rhythm Archaeology
+Rhythm archaeologist - Deep rhythm excavation
+Beat microsurgeon - Sub-millisecond beat precision
+Groove DNA sequencer - Complete groove fingerprinting
+Guitar rhythm integration - Guitar-specific rhythm analysis
+Phase 3: Harmonic Excavation
+Harmonic archaeologist - Deep harmonic analysis
+Chord cryptographer - Advanced chord decoding
+Guitar chord integration - Guitar-specific harmonic analysis
+Functional harmony analyst - Complete harmonic understanding
+Phase 4: Complete Musical Intelligence
+All remaining analyzers - Structure, dynamics, timbre, context
+Cross-analyzer integration - Results fusion and validation
+Quality assurance - Comprehensive testing and validation
+Accompaniment optimization - Perfect matching algorithms
+🎼 SUCCESS CRITERIA FOR PRECISION FOCUS
+✅ Musical Accuracy:
+
+99.9%+ beat detection accuracy on complex music
+Chord recognition better than trained musicians
+Guitar technique identification with expert-level precision
+Musical structure analysis matching musicologist analysis
+Harmonic analysis capturing all functional relationships
+✅ Data Completeness:
+
+Every musical element captured and analyzed
+No musical information left unexamined
+Complete context for accompaniment generation
+Comprehensive metadata for all analysis results
+Full musical DNA extraction from input
+✅ Accompaniment Optimization:
+
+Perfect musical matching for any input
+Style-aware suggestions for accompaniment
+Harmonic compatibility analysis and recommendations
+Rhythmic synchronization with microsecond precision
+Dynamic and expressive matching capabilities
+🚀 BOTTOM LINE
+CREATE THE MOST PRECISE MUSIC ANALYSIS SYSTEM EVER BUILT. EXTRACT EVERY POSSIBLE MUSICAL DETAIL. FOCUS ON PERFECTION OVER SPEED. SPECIFICALLY OPTIMIZE FOR ACOUSTIC GUITAR ANALYSIS AND SONGWRITING WORKFLOWS.
+
+GOAL: ANALYSIS SO PRECISE AND COMPREHENSIVE THAT PERFECT MUSICAL ACCOMPANIMENT BECOMES INEVITABLE.
+
+PRECISION. COMPLETENESS. MUSICAL INTELLIGENCE. NO COMPROMISES.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
